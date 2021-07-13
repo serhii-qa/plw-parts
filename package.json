@@ -1,0 +1,27 @@
+{
+  "name": "plw-parts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dmitrievich/plw-parts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dmitrievich/plw-parts/issues"
+  },
+  "homepage": "https://github.com/Dmitrievich/plw-parts#readme",
+  "devDependencies": {
+    "chalk": "^4.1.1",
+    "playwright": "^1.12.3"
+  },
+  "dependencies": {
+    "csv-writer": "^1.6.0"
+  }
+}
